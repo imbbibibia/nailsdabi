@@ -1,11 +1,14 @@
 chamada{
-   background-color: blueviolet;
+   background-color: rgb(80, 3, 3);
    display:flex;
-   margin-top: 80px;
+   padding-bottom:  80px;
    margin-bottom: 80px;
    justify-content: center;
 }
 body{
-    background-color: black;
+    background-color: rgb(12, 6, 63);
     margin: 0px;
+    font-family: "Caveat", cursive;
+    color:black;
+    margin-bottom: 100px;
 }
